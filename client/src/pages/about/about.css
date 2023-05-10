@@ -1,0 +1,55 @@
+/* .about {
+    height: 70vh;
+    background-image: url('../../assests/barahi-jungle-lodge.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 3rem;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+    text-align: center;
+
+}
+
+.footer {
+    width: 100%;
+    width: 1024px;
+    font-size: 12px;
+}
+
+.fLists {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.fList {
+    list-style: none;
+    padding: 0;
+
+}
+
+.fListItem {
+    margin-bottom: 10px;
+    color: #003580;
+    cursor: pointer;
+} */
